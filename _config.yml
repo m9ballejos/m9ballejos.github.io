@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Mark A. Ballejos"
-  avatar           : "/assets/images/mballejos9.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/MBallejos9.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aerospace Engineer / IT Program Manager / Data Scientist"
   location         : "Bastrop, Texas"
   email            : "m9ballejos@austin.rr.com"
