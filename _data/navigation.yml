@@ -5,9 +5,9 @@ main:
   - title: "About"
     url: /About/
   - title: "Portfolio"
-    url:/Portfolio/
+    url: /Portfolio/
   - title: "Gallery"
-    url:/Gallery/
+    url: /Gallery/
   - title: "Blog"
     url: /Blog/
   - title: "Links"
