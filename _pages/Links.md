@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "External Links"
-permalink: /links/
+title: "Links"
+permalink: /Links/
 author_profile: true
 ---
 
